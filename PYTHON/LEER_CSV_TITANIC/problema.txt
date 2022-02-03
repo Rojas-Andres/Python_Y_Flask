@@ -1,0 +1,5 @@
+1. Cuantos sobrevivieron? Bien
+2. Porcentaje de las personas que sobrevivieron 
+3. Cuantas clases hay?
+4. Cuantos hombres y cuantas mujeres hubo
+5. Cuantos ticket diferentes habia ?
