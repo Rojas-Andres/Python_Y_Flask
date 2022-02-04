@@ -1,0 +1,6 @@
+Leer todos los archivos json y validar que el archivo debe de comenzar con informacion esta prueba sera evaluada 
+colocando su codigo con mas archivos json entonces su codigo debera leer solo aquellos que comiencen con informacion,
+debera de crear tablas hagalo a su conveniencia , esta parte de la creacion de tablas tambien tendra su respectiva
+calificacion. Debe de usar psycopg2 para conectarse a la base de datos . 
+
+Exitos.
